@@ -74,6 +74,10 @@ South China University of Technology
 
 Note: All train and test.py files only need to run such as python3 train_splnet_key.py on the command line, you can modify the size of the image block in the py file and load the model to match and adapt to different settings
 
+# Check_point_path
+
+The Google Drive link of the model: (https://drive.google.com/drive/folders/1DYGp1UAibRqy5ZEu4apmuWEynV3YcpSF)
+
 ## Citation
 
 If you find the code helpful in your resarch or work, please cite the following papers.
