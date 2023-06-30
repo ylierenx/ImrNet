@@ -1,4 +1,4 @@
-# ImrNet
+# Imrnet: An Iterative Motion Compensation and Residual Reconstruction Network for Video Compressed Sensing
 
 This is the PyTorch implementation of ICASSP2021 paper Imrnet: An Iterative Motion Compensation and Residual Reconstruction Network for Video Compressed Sensing (https://ieeexplore.ieee.org/abstract/document/9414534) by Xin Yang, Chunling Yang.
 
